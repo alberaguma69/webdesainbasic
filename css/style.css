@@ -1,0 +1,11 @@
+.banner{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("https://dailyhotels.id/wp-content/uploads/2021/06/Tutto-Bonno-1024x684.jpg");
+    background-position: center;
+    background-size: cover;
+    backface-visibility: hidden;
+    color: #ffff;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    backdrop-filter: blur;
+    
+}
